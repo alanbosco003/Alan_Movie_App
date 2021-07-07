@@ -3,7 +3,7 @@
 
 I'd appreciate it if you could show your support by buying me some coffee. Thank you 
 
-https://www.buymeacoffee.com/bi3cp0Zk5
+https://www.buymeacoffee.com/Alanbosco
 
 Dark Theam : 
 
@@ -11,11 +11,11 @@ Dark Theam :
 <img src="dark_theam_ss2.JPG">
 <img src="dark_theam_ss3.JPG">
 
-Dark Theam : 
+Light Theam : 
 
-<img src="dark_theam_ss1.JPG">
-<img src="dark_theam_ss2.JPG">
-<img src="dark_theam_ss3.JPG">
+<img src="light_theam_ss1.JPG">
+<img src="light_theam_ss2.JPG">
+<img src="light_theam_ss3.JPG">
 
 ## Getting Started
 
