@@ -1,15 +1,21 @@
 # movie_db
 
 
-Screenshots:
-https://www.behance.net/cybdom
-
-I'd appreciate it if you could show your support by buying me some coffee. Thank you :)
+I'd appreciate it if you could show your support by buying me some coffee. Thank you 
 
 https://www.buymeacoffee.com/bi3cp0Zk5
 
-<img src="screenshot1.png">
-<img src="screenshot2.png">
+Dark Theam : 
+
+<img src="dark_theam_ss1.JPG">
+<img src="dark_theam_ss2.JPG">
+<img src="dark_theam_ss3.JPG">
+
+Dark Theam : 
+
+<img src="dark_theam_ss1.JPG">
+<img src="dark_theam_ss2.JPG">
+<img src="dark_theam_ss3.JPG">
 
 ## Getting Started
 
