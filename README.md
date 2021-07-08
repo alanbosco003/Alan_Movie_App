@@ -34,6 +34,10 @@ This application have a Dark/Light mode theme ( using Bloc ) //which will be eas
 
 This application is mainly build beginners who are looking to learn Bloc library, API integration and much more...
 
+## Updates
+
+08/07/2021 :- Network Detection is added so that user can identify which network he is connected (wifi/phone) if no connection the will show disconnected icon.( this feature is done by bloc package )
+
 Dark Theam : 
 
 <img src="dark_theam_ss1.JPG">
