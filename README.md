@@ -20,7 +20,15 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Info
 
-This is a flutter application build for searching for the trending movies and upcomming movies. The movie API is provided by Movie db. You have o use your own movie db api key which can be easily be generated from there site :- (https://www.themoviedb.org)  
+This is a movie app Developed in flutter, As the name says you cannot watch movies on this app /: But, this application can be used to watch the popular movies and trending movies. if you are bored and looking forward to watch a movie but pretty confused which movie to watch you can use this app. This app will give the full overview about the application like movie info, cast, rating ....
+
+This is a flutter application build for searching for the trending movies and upcomming movies. The movie API is provided by Movie db. You have to use your own movie db api key which can be easily be generated from there site :- (https://www.themoviedb.org)  
+
+## Puropose of the application :- 
+
+The sole purpose of the application is to help the flutter developers who want to download a basic application which uses the Bloc pattern and Api integration. so, I hope this app will do the job.
+
+This application have a Dark/Light mode theme ( using Bloc ) //which will be easy to understand//.
 
 ## What you will learn 
 
