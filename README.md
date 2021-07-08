@@ -36,7 +36,7 @@ This application is mainly build beginners who are looking to learn Bloc library
 
 ## Updates
 
-08/07/2021 :- Network Detection is added so that user can identify which network he is connected (wifi/phone) if no connection the will show disconnected icon.( this feature is done by bloc package )
+08/07/2021 :- Network Detection is added so that user can identify which network he is connected (wifi/phone) if no connection then will show disconnected icon.( this feature is done by bloc package )
 
 Dark Theam : 
 
