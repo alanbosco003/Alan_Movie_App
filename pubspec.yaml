@@ -30,6 +30,7 @@ dependencies:
   font_awesome_flutter: ^9.1.0
   flutter_switch: ^0.3.2
   flutter_bloc: ^7.0.1
+  connectivity_plus: ^0.8.1
   
   http:
   flutter_rating_bar: ^3.0.0

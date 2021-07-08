@@ -10,7 +10,7 @@ class Api {
   var httpClient = http.Client();
 
   static const url = "https://api.themoviedb.org/3";
-  static const apiKey = "ENTER YOUR KEY HERE";
+  static const apiKey = "4b132d8d955f95bf2ae463a2d294bcb4";
 
   Future<List<GenreModel>> getGenreList(int movieId) async {
     final response =

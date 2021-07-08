@@ -5,6 +5,7 @@ import 'package:movie_db/logic/cubit/theam_cubit.dart';
 import 'package:movie_db/models/featuredmoviemodel.dart';
 import 'package:movie_db/models/genremodel.dart';
 import 'package:movie_db/models/trendingmoviemodel.dart';
+import 'package:movie_db/ui/widgets/connectivity.dart';
 import 'package:movie_db/ui/widgets/homepagefeaturedwidget.dart';
 import 'package:movie_db/ui/widgets/toggle_button.dart';
 import 'package:movie_db/ui/widgets/widgets.dart';
@@ -38,7 +39,7 @@ class _HomeScreenState extends State<HomeScreen> {
               backgroundColor:
                   state.theam == true ? Colors.black : Colors.white,
               elevation: 0,
-              actions: <Widget>[Toggle()],
+              actions: <Widget>[Connect(), Toggle()],
               title: Text(
                 "Alan's Movie App",
                 style: TextStyle(
